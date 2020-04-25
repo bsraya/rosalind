@@ -1,1 +1,1 @@
-These are the codes for problems on [Rosalind](rosalind.info) website
+These are the codes for problems on [Rosalind](rosalind.info/problems/list-view) website
