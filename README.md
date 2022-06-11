@@ -1,1 +1,3 @@
-These are the codes for problems on [Rosalind](http://rosalind.info/problems/list-view) website
+# Rosalind
+
+This project includes some of the solution for problems on [Rosalind](http://rosalind.info/problems/list-view).
